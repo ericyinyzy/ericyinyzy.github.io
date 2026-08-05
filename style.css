@@ -155,10 +155,7 @@ h2 {
 .job-market {
   font-style: italic;
   font-weight: 600;
-  color: #c0392b;
-}
-@media (prefers-color-scheme: dark) {
-  .job-market { color: #ff7b6e; }
+  color: red;
 }
 
 /* ---- publication cards (home) ---- */
