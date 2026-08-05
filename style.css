@@ -152,6 +152,15 @@ h2 {
 
 .about p { margin: 0 0 10px; color: var(--text); }
 
+.job-market {
+  font-style: italic;
+  font-weight: 600;
+  color: #c0392b;
+}
+@media (prefers-color-scheme: dark) {
+  .job-market { color: #ff7b6e; }
+}
+
 /* ---- publication cards (home) ---- */
 
 .pub-card {
