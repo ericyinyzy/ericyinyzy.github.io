@@ -224,6 +224,12 @@ h2 {
   white-space: nowrap;
 }
 
+.venue-badge.pending {
+  background: transparent;
+  border: 1px dashed var(--faint);
+  color: var(--muted);
+}
+
 .link-pill {
   display: inline-block;
   padding: 2.5px 10px;
